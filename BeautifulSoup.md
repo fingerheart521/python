@@ -532,7 +532,7 @@ for item in items:
 
 # 结果：
 # title
-# practice BeautifulSoup
+# module3 BeautifulSoup
 ```
 
 以提取title标签为例，直接把标签名称作为参数，可以直接从文本中提取出**title**标签，**select**方法返回对象是一个**bs4.element.ResultSet**数组，遍历数组元素，每个元素是一个**bs4.element.Tag对象**，使用该对象的**name**属性可以得到标签名称，使用**string**方法可以得到标签文本信息。
