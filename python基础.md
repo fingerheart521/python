@@ -659,4 +659,3 @@ num = input()
 print(re.match(r"[\d|-]*", num).group())
 ```
 
-docker run -d --name of openfrp/frpc:latest -u 621421502e33e180e265f6a867125bac -p 402460
