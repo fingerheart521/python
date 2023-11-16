@@ -159,13 +159,15 @@ sql = pd.read_sql("select * from crazyant_pvuv", con=mysql)
 
 ## 三. Pandas数据结构
 
- ![image-20231022151557487](https://gitee.com/fingerheart521/typora-image/raw/master/image/202310222009004.png)
+![image-20231022151557487](https://gitee.com/fingerheart521/typora-image/raw/master/image/202310222009004.png)
 
 ### 1. Series      
 
 Series是一种类似于一维数组的对象,它由一组数据（不同数据类型）以及一组与之相关的数据标签（即索引）组成。      
 
-![image-20231022152557756](https://gitee.com/fingerheart521/typora-image/raw/master/image/202310222009013.png)![image-20231022152640755](https://gitee.com/fingerheart521/typora-image/raw/master/image/202310222009016.png)![image-20231022153154696](https://gitee.com/fingerheart521/typora-image/raw/master/image/202310222009925.png)
+![image-20231022152557756](https://gitee.com/fingerheart521/typora-image/raw/master/image/202310222009013.png)
+![image-20231022152640755](https://gitee.com/fingerheart521/typora-image/raw/master/image/202310222009016.png)
+![image-20231022153154696](https://gitee.com/fingerheart521/typora-image/raw/master/image/202310222009925.png)
 
 ### 2. DataFrame
 
