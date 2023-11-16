@@ -16,6 +16,7 @@ import numpy as np
 # 本文件已上传至  https://gitee.com/fingerheart521/typora-image, 可自行下载
 # 本文件所有图片依托于gitee,使用时请保证网络正常  https://gitee.com/fingerheart521/typora-image
 # 本文件涉及到输出文件,画图等操作时省略
+# 若图片显示错误,可转至  https://gitee.com/fingerheart521/typora-image  进行查看本文件
 ```
 
 
